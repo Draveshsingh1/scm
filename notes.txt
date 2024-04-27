@@ -1,0 +1,8 @@
+
+Use this command for Generate the tailwind css
+Command:-
+npx tailwindcss -i ./src/main/resources/static/css/input.css -o src/main/resources/static/css/output.css --watch
+
+Add Tailwind and flowbite css in page-
+Include output.css in your html
+if you want to flowbite : include css and js script
